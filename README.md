@@ -124,9 +124,9 @@ Courses | Duration | Effort
 ### Introduction to Data Science
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Introduction to Data Science](https://www.coursera.org/course/datasci)| 8 weeks | 10-12 hours/week
-[Data Science - CS109 from Harvard](http://cs109.github.io/2015/)| 12 weeks | 5-6 hours/week
-[The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)| 12 weeks | 10-15 hours/week
+-[x] [Introduction to Data Science](https://www.coursera.org/course/datasci)| 8 weeks | 10-12 hours/week
+-[ ] [Data Science - CS109 from Harvard](http://cs109.github.io/2015/)| 12 weeks | 5-6 hours/week
+-[ ] [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)| 12 weeks | 10-15 hours/week
 
 ### Machine Learning
 Courses | Duration | Effort
