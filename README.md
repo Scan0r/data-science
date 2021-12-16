@@ -15,7 +15,7 @@
 
 ## Contents
 
-- [About](#about)
+- ~[About](#about)~
 - [Becoming an OSS student](#becoming-an-oss-student)
 - [Motivation & Preparation](#motivation--preparation)
 - [Curriculum](#curriculum)
